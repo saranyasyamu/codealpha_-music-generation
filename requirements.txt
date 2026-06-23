@@ -1,0 +1,5 @@
+streamlit
+numpy
+tensorflow
+music21
+protobuf
