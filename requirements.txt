@@ -1,5 +1,4 @@
-streamlit
-numpy
-tensorflow
+streamlit==1.36.0
+numpy==1.26.4
+tensorflow==2.15.0
 music21
-protobuf
